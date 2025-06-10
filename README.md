@@ -36,6 +36,7 @@ pip install pandas numpy matplotlib ta yfinance
 1. **Clone or download the repository**
 
    ```bash
+   https://github.com/tmdrl02/backtester.git
    ```
 
 git clone  cd backtesting
