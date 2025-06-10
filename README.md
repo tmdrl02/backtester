@@ -1,4 +1,4 @@
-# backtester
+# Backtester
 Backtester is a simple Python backtesting engine for any strategies to simulate trading on historical market data.
 
 
